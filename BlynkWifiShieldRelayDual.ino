@@ -9,12 +9,12 @@ int pinValue1 = 0;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "e493a9880ae34ba28e49d7b609a318f2";
+char auth[] = "Blynk Token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "fenyx.io";
-char pass[] = "12345fenyX";
+char ssid[] = "ssid";
+char pass[] = "pass";
 
 // Hardware Serial on Mega, Leonardo, Micro...
 //#define EspSerial Serial1
